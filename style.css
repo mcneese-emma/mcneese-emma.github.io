@@ -129,6 +129,11 @@ header {
     margin: 0 auto;
     border-color: #070451;
 }
+
+h2{
+    text-align: center;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
