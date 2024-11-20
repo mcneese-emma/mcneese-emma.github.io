@@ -184,4 +184,7 @@ body {
         text-decoration: underline;
     }
 
+    h3 {
+        text-decoration-thickness: 2px; 
+    }
 
