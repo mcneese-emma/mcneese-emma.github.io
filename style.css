@@ -113,7 +113,22 @@ header {
             padding: 10px;
             border: #ccc 1px solid;
         }
-
+.box {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    /*put a border around the content*/
+    border: 5px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background: #f4f4f4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-color: #070451;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
